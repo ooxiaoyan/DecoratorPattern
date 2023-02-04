@@ -7,5 +7,4 @@ class ConcreteComponent : Component() {
     override fun operate() {
         println("do something in ConcreteComponent")
     }
-
 }

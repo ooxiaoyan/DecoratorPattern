@@ -1,5 +1,6 @@
 package universal
 
+// 具体的装饰类
 class ConcreteDecorator1(component: Component): Decorator(component) {
 
     // 重写父类的Operation方法
